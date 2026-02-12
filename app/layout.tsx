@@ -6,10 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  title: "FullAutoFlow — Workflow Automation for Mid-Size Operations Teams",
+  title: "FullAutoFlow — Workflow Automation for Mid-Size Finance Teams",
   description:
     "We build custom automation workflows that save operations teams 20+ hours per week. Invoice processing, month-end close, system integrations, and more.",
-  generator: "v0.app",
 }
 
 export const viewport: Viewport = {
