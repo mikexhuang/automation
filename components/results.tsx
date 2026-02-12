@@ -4,7 +4,7 @@ import { FadeIn } from "@/components/fade-in"
 
 const stats = [
   { value: "80%", label: "reduction in manual invoice processing time" },
-  { value: "20-30 hrs", label: "given back to your operations team each week" },
+  { value: "20-40 hrs", label: "given back to your operations team each week" },
   { value: "6 weeks", label: "from kickoff to working automation" },
 ]
 

@@ -61,7 +61,7 @@ export function Services() {
       <div className="mx-auto max-w-6xl">
         <FadeIn>
           <h2 className="text-center text-3xl font-bold tracking-tight text-foreground md:text-4xl">
-            What we automate
+            What we've automated
           </h2>
         </FadeIn>
 

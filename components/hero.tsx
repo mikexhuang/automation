@@ -35,7 +35,7 @@ export function Hero() {
           <p className="mx-auto mt-8 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground md:text-xl">
             We build custom automation workflows that eliminate manual data entry,
             invoice processing, reporting, and the repetitive tasks draining your
-            operations team — typically saving 15-30 hours per week within 6 weeks.
+            finance/accounting team — typically saving 20-40 hours per week within 6 weeks.
           </p>
         </FadeIn>
 

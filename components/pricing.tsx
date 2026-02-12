@@ -64,12 +64,14 @@ export function Pricing() {
           {/* Secondary card */}
           <FadeIn delay={0.2} className="md:col-span-2">
             <div className="glass-card flex h-full flex-col justify-center rounded-xl p-8">
-              <p className="text-xs font-medium uppercase tracking-widest text-muted-foreground">
+              <p className="mt-4 text-3xl font-bold text-foreground">
                 Ongoing Support
               </p>
+              {/*
               <p className="mt-4 text-2xl font-bold text-foreground">
                 $250<span className="text-base font-normal text-muted-foreground">/mo</span>
               </p>
+              */}
               <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
                 Need us to maintain, monitor, or expand your workflows? Monthly
                 support plans available.

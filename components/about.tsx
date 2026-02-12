@@ -6,7 +6,7 @@ import { FadeIn } from "@/components/fade-in"
 const badges = [
   { icon: Building2, label: "Former PwC" },
   { icon: Gamepad2, label: "Former FanDuel" },
-  { icon: Award, label: "ICF Certified Coach" },
+  { icon: Award, label: "Executive Change Management" },
 ]
 
 export function About() {
@@ -32,9 +32,8 @@ export function About() {
                 tool that started as an internal fix for his own team, scaled
                 firm-wide, and became a cloud product used by clients. He went on to
                 lead product at FanDuel, optimizing payment infrastructure and running
-                cross-functional technical teams. {"He's"} also an ICF-certified executive
-                coach with 200+ sessions helping leaders at Salesforce, Coinbase, and
-                Pinterest manage change.
+                cross-functional technical teams. {"He's"} also helped leaders through change management at Salesforce, Coinbase, and
+                Pinterest.
               </p>
               <p className="mt-4 text-base font-medium leading-relaxed text-foreground">
                 That combination — knowing how to build the automation AND how to get

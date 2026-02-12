@@ -4,6 +4,7 @@ import { Problem } from "@/components/problem"
 import { HowItWorks } from "@/components/how-it-works"
 import { Services } from "@/components/services"
 import { Results } from "@/components/results"
+import { Testimonial } from "@/components/testimonial"
 import { About } from "@/components/about"
 import { Pricing } from "@/components/pricing"
 import { FAQ } from "@/components/faq"
@@ -23,6 +24,8 @@ export default function Page() {
         <Services />
         <div className="section-divider" />
         <Results />
+        <div className="section-divider" />
+        <Testimonial />
         <div className="section-divider" />
         <About />
         <div className="section-divider" />
